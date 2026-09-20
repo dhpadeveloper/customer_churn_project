@@ -24,7 +24,7 @@ The project covers:
 ## Project Links
 
 * **GitHub Repository:** https://github.com/dhpadeveloper/customer_churn_project
-* **Demo Video:** https://nagarro-my.sharepoint.com/:v:/p/harsh_bhagwani/IQA4gZC_dOFrQ5DWabsSgd4KASMTr3bIxqy9F4JjKDN9KvE?e=bJ8kda
+* **Demo Video:** https://nagarro-my.sharepoint.com/:v:/p/harsh_bhagwani/IQA4gZC_dOFrQ5DWabsSgd4KASMTr3bIxqy9F4JjKDN9KvE?e=6pqpcy
 
 ---
 
